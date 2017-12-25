@@ -1,0 +1,16 @@
+### OSX ###
+.DS_Store
+
+### Python ###
+__pycache__/
+*.py[cod]
+
+#Distirbution / packaging
+venv/
+
+### Django ###
+*.log
+*.pyc
+*.__pycache__/
+
+db.sqlite3
